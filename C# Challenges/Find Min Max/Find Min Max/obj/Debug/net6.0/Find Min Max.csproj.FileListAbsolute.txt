@@ -1,0 +1,15 @@
+C:\Users\Matthew Gehrt\source\repos\Find Min Max\Find Min Max\bin\Debug\net6.0\Find Min Max.exe
+C:\Users\Matthew Gehrt\source\repos\Find Min Max\Find Min Max\bin\Debug\net6.0\Find Min Max.deps.json
+C:\Users\Matthew Gehrt\source\repos\Find Min Max\Find Min Max\bin\Debug\net6.0\Find Min Max.runtimeconfig.json
+C:\Users\Matthew Gehrt\source\repos\Find Min Max\Find Min Max\bin\Debug\net6.0\Find Min Max.dll
+C:\Users\Matthew Gehrt\source\repos\Find Min Max\Find Min Max\bin\Debug\net6.0\Find Min Max.pdb
+C:\Users\Matthew Gehrt\source\repos\Find Min Max\Find Min Max\obj\Debug\net6.0\Find Min Max.csproj.AssemblyReference.cache
+C:\Users\Matthew Gehrt\source\repos\Find Min Max\Find Min Max\obj\Debug\net6.0\Find Min Max.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew Gehrt\source\repos\Find Min Max\Find Min Max\obj\Debug\net6.0\Find Min Max.AssemblyInfoInputs.cache
+C:\Users\Matthew Gehrt\source\repos\Find Min Max\Find Min Max\obj\Debug\net6.0\Find Min Max.AssemblyInfo.cs
+C:\Users\Matthew Gehrt\source\repos\Find Min Max\Find Min Max\obj\Debug\net6.0\Find Min Max.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Gehrt\source\repos\Find Min Max\Find Min Max\obj\Debug\net6.0\Find Min Max.dll
+C:\Users\Matthew Gehrt\source\repos\Find Min Max\Find Min Max\obj\Debug\net6.0\refint\Find Min Max.dll
+C:\Users\Matthew Gehrt\source\repos\Find Min Max\Find Min Max\obj\Debug\net6.0\Find Min Max.pdb
+C:\Users\Matthew Gehrt\source\repos\Find Min Max\Find Min Max\obj\Debug\net6.0\Find Min Max.genruntimeconfig.cache
+C:\Users\Matthew Gehrt\source\repos\Find Min Max\Find Min Max\obj\Debug\net6.0\ref\Find Min Max.dll

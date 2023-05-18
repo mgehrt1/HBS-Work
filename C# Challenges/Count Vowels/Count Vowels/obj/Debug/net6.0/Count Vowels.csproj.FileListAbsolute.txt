@@ -1,0 +1,15 @@
+C:\Users\Matthew Gehrt\source\repos\Count Vowels\Count Vowels\bin\Debug\net6.0\Count Vowels.exe
+C:\Users\Matthew Gehrt\source\repos\Count Vowels\Count Vowels\bin\Debug\net6.0\Count Vowels.deps.json
+C:\Users\Matthew Gehrt\source\repos\Count Vowels\Count Vowels\bin\Debug\net6.0\Count Vowels.runtimeconfig.json
+C:\Users\Matthew Gehrt\source\repos\Count Vowels\Count Vowels\bin\Debug\net6.0\Count Vowels.dll
+C:\Users\Matthew Gehrt\source\repos\Count Vowels\Count Vowels\bin\Debug\net6.0\Count Vowels.pdb
+C:\Users\Matthew Gehrt\source\repos\Count Vowels\Count Vowels\obj\Debug\net6.0\Count Vowels.csproj.AssemblyReference.cache
+C:\Users\Matthew Gehrt\source\repos\Count Vowels\Count Vowels\obj\Debug\net6.0\Count Vowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew Gehrt\source\repos\Count Vowels\Count Vowels\obj\Debug\net6.0\Count Vowels.AssemblyInfoInputs.cache
+C:\Users\Matthew Gehrt\source\repos\Count Vowels\Count Vowels\obj\Debug\net6.0\Count Vowels.AssemblyInfo.cs
+C:\Users\Matthew Gehrt\source\repos\Count Vowels\Count Vowels\obj\Debug\net6.0\Count Vowels.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Gehrt\source\repos\Count Vowels\Count Vowels\obj\Debug\net6.0\Count Vowels.dll
+C:\Users\Matthew Gehrt\source\repos\Count Vowels\Count Vowels\obj\Debug\net6.0\refint\Count Vowels.dll
+C:\Users\Matthew Gehrt\source\repos\Count Vowels\Count Vowels\obj\Debug\net6.0\Count Vowels.pdb
+C:\Users\Matthew Gehrt\source\repos\Count Vowels\Count Vowels\obj\Debug\net6.0\Count Vowels.genruntimeconfig.cache
+C:\Users\Matthew Gehrt\source\repos\Count Vowels\Count Vowels\obj\Debug\net6.0\ref\Count Vowels.dll
