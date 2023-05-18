@@ -1,0 +1,15 @@
+C:\Users\Matthew Gehrt\source\repos\Equality Check\Equality Check\bin\Debug\net6.0\Equality Check.exe
+C:\Users\Matthew Gehrt\source\repos\Equality Check\Equality Check\bin\Debug\net6.0\Equality Check.deps.json
+C:\Users\Matthew Gehrt\source\repos\Equality Check\Equality Check\bin\Debug\net6.0\Equality Check.runtimeconfig.json
+C:\Users\Matthew Gehrt\source\repos\Equality Check\Equality Check\bin\Debug\net6.0\Equality Check.dll
+C:\Users\Matthew Gehrt\source\repos\Equality Check\Equality Check\bin\Debug\net6.0\Equality Check.pdb
+C:\Users\Matthew Gehrt\source\repos\Equality Check\Equality Check\obj\Debug\net6.0\Equality Check.csproj.AssemblyReference.cache
+C:\Users\Matthew Gehrt\source\repos\Equality Check\Equality Check\obj\Debug\net6.0\Equality Check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew Gehrt\source\repos\Equality Check\Equality Check\obj\Debug\net6.0\Equality Check.AssemblyInfoInputs.cache
+C:\Users\Matthew Gehrt\source\repos\Equality Check\Equality Check\obj\Debug\net6.0\Equality Check.AssemblyInfo.cs
+C:\Users\Matthew Gehrt\source\repos\Equality Check\Equality Check\obj\Debug\net6.0\Equality Check.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Gehrt\source\repos\Equality Check\Equality Check\obj\Debug\net6.0\Equality Check.dll
+C:\Users\Matthew Gehrt\source\repos\Equality Check\Equality Check\obj\Debug\net6.0\refint\Equality Check.dll
+C:\Users\Matthew Gehrt\source\repos\Equality Check\Equality Check\obj\Debug\net6.0\Equality Check.pdb
+C:\Users\Matthew Gehrt\source\repos\Equality Check\Equality Check\obj\Debug\net6.0\Equality Check.genruntimeconfig.cache
+C:\Users\Matthew Gehrt\source\repos\Equality Check\Equality Check\obj\Debug\net6.0\ref\Equality Check.dll
