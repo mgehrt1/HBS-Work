@@ -18,7 +18,7 @@ CountVowels("Palm") ➞ 1
 
 CountVowels("Prediction") ➞ 4
 
-#### Restrictions
+#### Restrictions:
 
 a, e, i, o u are considered vowels (not y).
 
@@ -38,7 +38,7 @@ CheckEquality(0, "0") ➞ false
 
 CheckEquality(1,  1) ➞ true
 
-#### Restrictions
+#### Restrictions:
 
 Both the value and type of the parameters need to be equal. The possible types of the given parameters are:
  
@@ -58,6 +58,6 @@ FindMinMax([2334454, 5]) ➞ [5, 2334454]
 
 FindMinMax([1]) ➞ [1, 1]
 
-#### Restrictions
+#### Restrictions:
 
 All test arrays will have at least one element and are valid.
