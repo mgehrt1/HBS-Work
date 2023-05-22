@@ -30,7 +30,7 @@ An introduction to MVC development through creating a web app. The app created d
 
 I learned how to use the MVC framework. I learned how to create Models, and use a Controller to display them how I want in a View.
 
-### [ASP-MVC Tutorial](https://github.com/mgehrt1/HBS-Work/tree/add-asp-mvc-app/ASP-MVCApp)
+### [ASP-MVC Tutorial](https://github.com/mgehrt1/HBS-Work/tree/main/ASP-MVCApp)
 
 Creating a web app using the ASP.NET and MVC frameworks. The app allows the user to keep track of items they have borrowed and lended, as well as their expenses. Introduced to the CRUD operations to make the app function as intended. Also introduced to using SQL servers to store data in a database which works in tandum with the web app in order to preserve the user's entries between uses of the app.
 
